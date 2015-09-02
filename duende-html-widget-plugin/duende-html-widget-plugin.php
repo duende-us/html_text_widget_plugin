@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Duende HTML Text Widget
+Plugin URI: https://github.com/duende-us/html_text_widget_plugin
 Description: Adds custom HTML to a widget area
 Author: Barrett Cox
 Author URI: http://barrettcox.com
